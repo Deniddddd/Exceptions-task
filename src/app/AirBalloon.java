@@ -27,5 +27,6 @@ public class AirBalloon {
 
         // Закриваємо Scanner
         balloon.close();
+//        fdsfsdfsdf
     }
 }
